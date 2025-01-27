@@ -1,0 +1,7 @@
+os
+pandas
+streamlit
+nltk.tokenize
+nltk
+textblob
+speech_recognition
