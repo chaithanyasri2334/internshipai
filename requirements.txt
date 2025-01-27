@@ -1,7 +1,9 @@
-os
 pandas
 streamlit
-nltk.tokenize
 nltk
-textblob
-speech_recognition
+scikit-learn
+gspread
+oauth2client
+gspread-dataframe
+SpeechRecognition
+openai
